@@ -1,4 +1,4 @@
-# Decision trees project
+# Configuration project
 
 You can find the instructions of the project in the file [configuration.ipynb](configuration.ipynb).
 
